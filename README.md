@@ -6,6 +6,14 @@
 - Mobile App (React Native + Expo): สแกน BLE, สั่ง Ring/Buzzer, แสดงตำแหน่งจาก backend
 - ESP32 Firmware (PlatformIO): จำลองอุปกรณ์ BlueTag-compatible เพื่อทดสอบกับแอป
 
+## ภาพอุปกรณ์ต้นแบบ
+
+ภาพอุปกรณ์ BlueTag ที่ประกอบบน breadboard แสดงบอร์ดควบคุม โมดูล buzzer และการต่อสายจากมุมต่าง ๆ
+
+| ภาพรวม | มุมด้านข้าง | มุมด้านหน้า |
+| :---: | :---: | :---: |
+| <img src="docs/images/bluetag-prototype-overview.png" alt="ภาพรวมอุปกรณ์ต้นแบบ BlueTag บน breadboard" width="240"> | <img src="docs/images/bluetag-prototype-side.png" alt="อุปกรณ์ต้นแบบ BlueTag และโมดูล buzzer จากมุมด้านข้าง" width="240"> | <img src="docs/images/bluetag-prototype-front.png" alt="บอร์ดควบคุมและการต่อสายอุปกรณ์ต้นแบบ BlueTag จากมุมด้านหน้า" width="240"> |
+
 ## Tech Stack
 
 ### Mobile App
